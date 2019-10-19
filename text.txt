@@ -1,3 +1,3 @@
-Lijn toegevoegd in text.txt
-Text lijn toegevoegd + lijn 1 gecorrigeerd
+Text lijn changed toegevoegd + lijn 1 gecorrigeerd
 text.txt --- added 1 line
+Added

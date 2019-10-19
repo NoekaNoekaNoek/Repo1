@@ -1,1 +1,2 @@
-Lijn toegevoegd inteelt.txt
+Lijn toegevoegd in text.txt
+Text lijn toegevoegd + lijn 1 gecorrigeerd

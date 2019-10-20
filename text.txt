@@ -1,4 +1,0 @@
-Text lijn changed toegevoegd + lijn 1 gecorrigeerd
-text.txt --- added 1 line
-Added
-Zondag 20 okt 2019
